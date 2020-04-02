@@ -1,0 +1,14 @@
+P  JOB  2D - CADCAM Netlist.IPC
+P  UNITS SI
+P  VER IPC-D-356A
+C  Creator: Proteus v8.8-SP1-Build27031
+P  IMAGE PRIMARY
+317                       -    MD1778PA00X-105000Y-090000X3048          S0
+317                       -    MD1778PA00X-105000Y-095000X3048          S0
+317                       -    MD1778PA00X-010000Y-012500X3048          S0
+317                       -    MD1778PA00X-010000Y-017500X3048          S0
+317                       -    MD2000PA00X-105000Y-007500X2286          S3
+317                       -    MD2000PA00X-010000Y-102500X2286          S3
+317                       -    MD2000PA00X-010000Y-007500X2286          S3
+317                       -    MD2000PA00X-105000Y-102500X2286          S3
+999
